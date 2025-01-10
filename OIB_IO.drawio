@@ -94,6 +94,12 @@
         <mxCell id="4MZeoHrBGx3ADns-Izul-31" value="Pb同位素比值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="301" y="281" width="87" height="17" as="geometry" />
         </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-32" value="EM1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="318" width="73" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-33" value="EM2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="318" width="73" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
