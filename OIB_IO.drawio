@@ -77,11 +77,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-28" value="Sr/Nd同位素比值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="290" width="96" height="17" as="geometry" />
+          <mxGeometry x="163" y="290" width="96" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="4MZeoHrBGx3ADns-Izul-29" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.157;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="4MZeoHrBGx3ADns-Izul-29" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="endArrow=classic;html=1;rounded=0;entryX=0.157;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="256" y="298" as="sourcePoint" />
+            <mxPoint x="259" y="299" as="sourcePoint" />
             <mxPoint x="280.66208000000006" y="298.6178399999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-31" value="Pb同位素比值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="301" y="290" width="87" height="17" as="geometry" />
+          <mxGeometry x="298.25" y="290" width="87" height="17" as="geometry" />
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-32" value="EM1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174.75" y="330" width="73" height="34" as="geometry" />
