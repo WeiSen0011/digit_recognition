@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4MZeoHrBGx3ADns-Izul-1" value="U/Pb元素比值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="106" width="87" height="17" as="geometry" />
+          <mxGeometry x="163" y="107" width="87" height="17" as="geometry" />
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-6" value="原始地幔" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="67" width="73" height="34" as="geometry" />
+          <mxGeometry x="238.5" y="68" width="73" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.157;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4MZeoHrBGx3ADns-Izul-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220.99" y="82" as="sourcePoint" />
-            <mxPoint x="259.66208000000006" y="115.61783999999989" as="targetPoint" />
+            <mxPoint x="235.99" y="83" as="sourcePoint" />
+            <mxPoint x="274.66208000000006" y="116.61783999999989" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-9" value="HUMI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="152" width="73" height="34" as="geometry" />
+          <mxGeometry x="170" y="152" width="73" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-10" value="其它" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="304.99" y="152" width="73" height="34" as="geometry" />
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-16" value="高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="173" y="128" width="30" height="26" as="geometry" />
+          <mxGeometry x="201" y="128" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-17" value="低" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="319" y="128" width="30" height="26" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="332.74" y="174.75" width="18" height="126.5" as="geometry" />
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-19" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="250" y="60" width="18" height="166" as="geometry" />
+          <mxGeometry x="266" y="76" width="18" height="134" as="geometry" />
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-20" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4MZeoHrBGx3ADns-Izul-19" target="4MZeoHrBGx3ADns-Izul-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -60,6 +60,39 @@
         </mxCell>
         <mxCell id="4MZeoHrBGx3ADns-Izul-23" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="269" y="198" width="9" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-24" value="EM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="247" width="73" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-25" value="DMM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="247" width="73" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-26" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="272.83" y="243.91" width="13.61" height="135.75" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4MZeoHrBGx3ADns-Izul-26" target="4MZeoHrBGx3ADns-Izul-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="296" as="sourcePoint" />
+            <mxPoint x="427" y="246" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-28" value="Sr/Nd同位素比值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="281" width="96" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-29" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.157;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" y="289" as="sourcePoint" />
+            <mxPoint x="280.66208000000006" y="289.6178399999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-30" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4MZeoHrBGx3ADns-Izul-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="261.78" y="331" as="sourcePoint" />
+            <mxPoint x="278" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MZeoHrBGx3ADns-Izul-31" value="Pb同位素比值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="281" width="87" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
